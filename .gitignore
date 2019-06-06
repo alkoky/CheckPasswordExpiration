@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs/config/applicationhost.config
+/.vs/CheckPasswordExpiration/v14/.suo
+/CheckPasswordExpiration/bin
+/CheckPasswordExpiration/obj/Debug
+/packages
